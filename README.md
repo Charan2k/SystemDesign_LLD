@@ -5,7 +5,7 @@ This repository contains hands-on implementation of Low-Level Design concepts in
 ---
 
 ## 📌 Repository Structure
-
+<pre> ```
 Patterns/
 │
 ├── Creational/
@@ -22,7 +22,7 @@ Patterns/
 │
 └── PracticeProblems/
 └── ...
-
+``` </pre>
 ---
 
 ## ✅ What’s Covered
