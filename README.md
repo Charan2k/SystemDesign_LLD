@@ -20,8 +20,10 @@ Patterns/
 ├── Behavioral/
 │ └── ...
 │
-└── PracticeProblems/
-└── ...
+Problems/
+|
+└── FrequentlyAsked/
+└── Popular
 ``` </pre>
 ---
 
